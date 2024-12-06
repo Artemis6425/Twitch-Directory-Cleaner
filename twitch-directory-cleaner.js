@@ -2,8 +2,8 @@
 // @name         Twitch Directory Cleaner
 // @namespace    https://github.com/Artemis6425/Twitch-Directory-Cleaner
 // @version      1.0
-// @updateURL
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/Artemis6425/Twitch-Directory-Cleaner/refs/heads/main/twitch-directory-cleaner.js
+// @downloadURL  https://raw.githubusercontent.com/Artemis6425/Twitch-Directory-Cleaner/refs/heads/main/twitch-directory-cleaner.js
 // @description  Removes Channels from any directory if they are found on a list.
 // @author       Artemis6425
 // @match        *://*.twitch.tv/directory/category/*
