@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Twitch Directory Cleaner
-// @namespace    https://github.com/Artemis6425/Twitch-Directory-Cleaner
-// @version      1.01
-// @updateURL    https://raw.githubusercontent.com/Artemis6425/Twitch-Directory-Cleaner/refs/heads/main/twitch-directory-cleaner.user.js
-// @downloadURL  https://raw.githubusercontent.com/Artemis6425/Twitch-Directory-Cleaner/refs/heads/main/twitch-directory-cleaner.user.js
-// @description  Removes Channels from any directory if they are found on a list.
+// @namespace    https://github.com/Artemis6425/Artemis-User-Scripts
+// @version      1.011
+// @updateURL    https://github.com/Artemis6425/Artemis-User-Scripts/raw/refs/heads/main/scripts/Twitch%20Directory%20Cleaner.user.js
+// @downloadURL  https://github.com/Artemis6425/Artemis-User-Scripts/raw/refs/heads/main/scripts/Twitch%20Directory%20Cleaner.user.js
+// @description  Removes Channels from any directory if they are found on a list. (switching to new directory, please update!)
 // @author       Artemis6425
 // @match        *://*.twitch.tv/directory/category/*
 // @run-at       document-end
@@ -24,7 +24,8 @@
       	"puncayshunstreams",
       	"weegeewatchparty",
       	"popewatchparty",
-      	"zfg247"
+      	"zfg247",
+		"HexSpeedruns247"
     ]
 
 

@@ -4,11 +4,13 @@ Allows the user to have a list of streams to remove from category directories
 The included array of streams to remove are 24/7 streams, primarily in the Super Mario 64 directory.
 
 
+# Please go to https://github.com/Artemis6425/Artemis-User-Scripts instead
+
 ## How to install
 
 Get [Tampermonkey](https://www.tampermonkey.net/), [ViolentMonkey](https://violentmonkey.github.io/), or whatever you want to use to load userscripts.
 
-Then, click [this link](https://raw.githubusercontent.com/Artemis6425/Twitch-Directory-Cleaner/refs/heads/main/twitch-directory-cleaner.user.js). Click install.
+Then, click [this link](https://github.com/Artemis6425/Artemis-User-Scripts/raw/refs/heads/main/scripts/Twitch%20Directory%20Cleaner.user.js). Click install.
 
 Once you do, you can see it in action by going to the category of your choice.
 
